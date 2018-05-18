@@ -2,7 +2,7 @@
 
 # Corso ciberfisico univr
 
-- Autore: Francesco trotti
+- Autore: Francesco Trotti
 
 - Data: 17/05/2018
 
