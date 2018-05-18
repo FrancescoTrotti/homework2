@@ -8,7 +8,7 @@
 
 # Esecuzione:
 
-Per eseguire il progetto clonare questa repository da gitHub con il comando "git clone https://github.com/FrancescoTrotti/homework2.git". Spostarsi nella cartella 'homework2' e avviare lo script presente nel file "setup.sh" con il comando ./setup.sh.
+Per eseguire il progetto clonare questa repository da gitHub con il comando "git clone https://github.com/FrancescoTrotti/homework2.git" nella cartella "catkin_ws/src". Spostarsi nella cartella 'homework2' e avviare lo script presente nel file "setup.sh" con il comando ./setup.sh.
 Per avviare la guida autonoma del turtlebot nel modello della delta lanciare il nodo 
 "roslaunch turtlebot3_gazebo turtlebot3_homework2.launch" in un terminale, 
 il nodo "roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/catkin_ws/src/homework2/map.yaml" in un secondo terminale,
