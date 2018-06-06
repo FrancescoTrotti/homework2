@@ -17,7 +17,7 @@ Una volta eseguito rviz selezionare il bottone "2D pose estimate" per stabilire 
 
 # Progettazione:
 
-Ho deciso di ricreare come modello del monodo l'aula Delta dell'università. E' stato fatto girare il tunderbolt3 all'interno del monodo per averne una ricostruzione su rviz riconoscendo le collizioni varie del ambiente.   
+Ho deciso di ricreare come modello del monodo l'aula Delta dell'università. E' stato fatto girare il tunderbolt3 all'interno del monodo per averne una ricostruzione su rviz riconoscendo le varie collisioni del ambiente.   
 
 # Video dimostrativo:
 
